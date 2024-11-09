@@ -22,7 +22,7 @@ Installation
 Clone the repository:
 
 bash
-git clone https://github.com/your-username/one_day_tour_planner.git
+git clone https://github.com/HarshBundeliya/one_day_tour_planner.git
 cd one_day_tour_planner
 Install dependencies:
 
